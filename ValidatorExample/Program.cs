@@ -10,7 +10,7 @@ namespace ValidatorExample
         static void Main(string[] args)
         {
             string passwordOne = "YusufArslan"; // Rakam eksik
-            string passwordTwo = "yusufa2rslan"; // Büyük harf ve rakam eksik
+            string passwordTwo = "yusufarslan"; // Büyük harf ve rakam eksik
             string passwordThree = "YusufArslan42"; // Her şey tamam
 
 
