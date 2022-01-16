@@ -1,0 +1,16 @@
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ValidatorExample.exe
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ValidatorExample.deps.json
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ValidatorExample.runtimeconfig.json
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ValidatorExample.runtimeconfig.dev.json
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ValidatorExample.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ref\ValidatorExample.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\bin\Debug\net5.0\ValidatorExample.pdb
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.csproj.AssemblyReference.cache
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.AssemblyInfoInputs.cache
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.AssemblyInfo.cs
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.csproj.CoreCompileInputs.cache
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ref\ValidatorExample.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.pdb
+C:\Projeler\UnluCoBootcamp\Örnekler\ValidatorExample\ValidatorExample\obj\Debug\net5.0\ValidatorExample.genruntimeconfig.cache
